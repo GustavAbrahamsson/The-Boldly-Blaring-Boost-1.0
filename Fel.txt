@@ -1,0 +1,5 @@
+Volume 1 (C7) är inte jordad, jag fick löda till kabel
+
+Kan vara bra att ha LED:ns resistor på kretskortet:
+	9V--[ R ]--(Port för LED)
+	      GND--(Port för katod på LED)
